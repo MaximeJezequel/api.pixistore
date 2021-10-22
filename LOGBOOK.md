@@ -6,3 +6,10 @@ Pas vraiment le temps de me pencher sur, CLI, Vue Router... On verra !
 Installation de cors, express, dotenv, morgan, nodemon, mysql2 done !
 
 Serveur prêt, database sommaire prête sur mysql, on va faire les routes...
+
+Route Get Product créée
+Il est minuit
+
+Get, Post, Put, Delete product fonctionne
+Il est tard, je dois me coucher
+Putain de typo sur Joi !!
